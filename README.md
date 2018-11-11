@@ -1,1 +1,16 @@
-movie-review-analysis
+ Movie Review Analysis
+=========================
+
+
+Project Setup
+=============
+
+
+Instructions
+------------
+
+
+Authors
+=======
+
+* Rahul Rawat
